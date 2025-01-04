@@ -1,3 +1,4 @@
+//
 class Solution(object):
     def uniqueMorseRepresentations(self, words):
         """
