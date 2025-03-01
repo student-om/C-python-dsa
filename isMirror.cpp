@@ -1,3 +1,4 @@
+// to check if tree is like mirror
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
